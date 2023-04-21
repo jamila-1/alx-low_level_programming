@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include<stdio.h>
 /**
   *main - Entry point
   *Desription: 'get the last degitl of a number'
